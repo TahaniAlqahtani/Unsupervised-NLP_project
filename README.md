@@ -1,8 +1,7 @@
-# y
+
 # Unsupervised_project
 
-
-### Project Proposal
+# Project Proposal
 
 
 ### Problem statement:
