@@ -13,14 +13,22 @@ In response to the COVID-19 pandemic, the White House and a coalition of leading
 
 
 ### Accessing the Dataset
-• We have made this dataset available on <a href="https://www.kaggle.com/godfatherfigure/healthcare-dataset-stroke-data" title="Go https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge">Kaggle</a> . Watch out for <a href="https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/discussion/137474">periodic updates</a>.
+• We have made this dataset available on <a href="https://www.kaggle.com/godfatherfigure/healthcare-dataset-stroke-data" title="Go https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge">Kaggle</a>. Watch out for <a href="https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/discussion/137474">periodic updates</a>.
+
+
 • The dataset is also hosted on <a rel="noreferrer nofollow" href="https://pages.semanticscholar.org/coronavirus-research">AI2's Semantic Scholar</a>, and you can search the dataset using AI2's new <a rel="noreferrer nofollow" href="https://cord-19.apps.allenai.org/">COVID-19 explorer</a>.
 
 
 ### Algorithms:
 • Problem Understanding.
+
+
 • Dataset Exploration and Cleaning.
+
+
 • Natural Language Pre-processing.
+
+
 • Unsupervised learning algorithms.
 
 
